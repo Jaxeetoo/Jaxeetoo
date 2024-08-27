@@ -1,4 +1,6 @@
-- 👋 Hi, you can call me Jacob
+## Jacob
+**`Developer / Data Analyst`**
+
 
 <!---
 Jaxeetoo/Jaxeetoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
