@@ -27,7 +27,7 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-FAF9F6?style=for-the-badge)
 ![CS](https://img.shields.io/badge/C%23-FAF9F6?style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-FAF9F6?style=for-the-badge&logo=python)
-![Html Badge](https://img.shields.io/badge/HTML-FAF9F6?style=for-the-badge&logo=html)
+![Html Badge](https://img.shields.io/badge/HTML-FAF9F6?style=for-the-badge&logo=html5)
 ![CSS Badge](https://img.shields.io/badge/CSS3-FAF9F6?style=for-the-badge&logo=css3&logoColor=264de4)
 ![JS Badge](https://img.shields.io/badge/Javascript-FAF9F6?style=for-the-badge&logo=javascript)
 
