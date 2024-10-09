@@ -1,10 +1,10 @@
 <h2 align="center"> Hello World! 👋 I'm Jacob </h2>
 
 <a href="https://github.com/jaxeetoo/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats-coral-chi-12.vercel.app/api?username=jaxeetoo&show_icons=true&bg_color=FFF2DD&title_color=181818&text_color=181818&icon_color=181818&custom_title=My%20Statistics&border_radius=2&card_width=250" />
+  <img height="200" align="center" src="https://github-readme-stats-coral-chi-12.vercel.app/api?username=jaxeetoo&show_icons=true&bg_color=FAF9F6&title_color=181818&text_color=181818&icon_color=181818&custom_title=My%20Statistics&border_radius=2&card_width=250" />
 </a>
 <a href="https://github.com/jaxeetoo/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats-coral-chi-12.vercel.app/api/top-langs?username=jaxeetoo&bg_color=FFF2DD&title_color=181818&border_radius=2&layout=compact&langs_count=8&card_width=300" />
+  <img height="200" align="center" src="https://github-readme-stats-coral-chi-12.vercel.app/api/top-langs?username=jaxeetoo&bg_color=FAF9F6&title_color=181818&border_radius=2&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 
@@ -12,9 +12,9 @@
 
 <div align="center">
   
-![Making Games](https://img.shields.io/badge/Making%20Games-FFF2DD?style=for-the-badge)
-![Analyze Data](https://img.shields.io/badge/Analyse%20data-FFF2DD?style=for-the-badge)
-![Code](https://img.shields.io/badge/Code%20stuff-FFF2DD?style=for-the-badge)
+![Making Games](https://img.shields.io/badge/Making%20Games-FAF9F6?style=for-the-badge)
+![Analyze Data](https://img.shields.io/badge/Analyse%20data-FAF9F6?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code%20stuff-FAF9F6?style=for-the-badge)
 
 </div>
 
